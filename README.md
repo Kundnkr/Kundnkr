@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kundan.netlify.app/](https://portfolio-kundan.netlify.app/)
 
-- 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, React, Database Management System**
+- 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, React, Database Management System, Node.js, MongoDB**
 
 - 📫 How to reach me **mrkundan19@gmail.com**
 
