@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [Kundan Kumar](https://kundankr.online/)
+- 👨‍💻 All of my projects are available at [Kundan Kumar](https://kundnkr.netlify.app/)
 
 - 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, React, Database Management System, Node.js, MongoDB**
 
